@@ -79,7 +79,7 @@ h1{
     display: flex;
    justify-content: center;
    align-items: center;
-   padding: 20px;
+   padding: 2px;
 }
 .food-menu{
     width: 300px;
@@ -88,7 +88,7 @@ h1{
     padding: 15px;
     box-sizing: border-box;
     box-shadow: 6px 12px 10px black;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 .food-details{
     padding: 4px;
@@ -101,7 +101,7 @@ h1{
         }
         .food-describe{
             text-align: justify;
-            line-height: 1.2;
+            line-height: 1.5;
             
       }
       .mulit-media{
@@ -111,8 +111,8 @@ h1{
         padding: 10px;
         box-shadow: grey 2px 3px 5px;
         display: flex;
-        margin-bottom: 10% ;
-        margin-top: 10%;
+        margin-bottom: 5% ;
+        margin-top: 5%;
         border-radius: 20px;
        
       }
@@ -127,7 +127,7 @@ h1{
         .footer-deco{
             background-color: black;
             text-align: center;
-            padding: 15px 30px ;
+            padding: 17px 30px ;
         }
         .food-color{
             color:#FF4500;
@@ -137,5 +137,5 @@ h1{
            color: gray;
        }
        .footer-deco h1{
-        font-size: 15px;
+        font-size: 20px;
        }
