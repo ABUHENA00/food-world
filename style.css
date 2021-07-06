@@ -1,0 +1,141 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0%;
+    
+    
+}
+header{
+    height: 100px;
+    background-color:black;
+    display: flex;
+    padding-bottom:15px;
+    
+}
+.header-logo{
+    width: 50%;
+    color: whitesmoke;
+  
+}
+.header-logo h1{
+    font-size: 50px;
+    padding-left: 25px;
+    
+}
+    
+.orange-color{
+   color:orange;
+  
+}
+.header-menu{
+    width: 60%;
+   color: white;
+}
+.header-menu ul li{
+    font-size: 20px;
+    list-style: none;
+    float: left;
+    padding: 28px;
+    text-decoration: none;
+}
+.container{
+    display: flex;
+    margin-bottom: 150px;
+
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width: 50%;
+    padding: 2px;
+    margin-left: 5%;
+}
+
+.half-width img{
+    width: 80%;
+}
+.Link-Button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 700;
+
+}
+.background-pic{
+    background-image: url(images/7.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.Food{
+    text-align: center;
+}
+.food-container{
+    box-sizing: border-box;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 20px;
+}
+.food-menu{
+    width: 300px;
+    margin: 10px;
+    background-color: white;
+    padding: 15px;
+    box-sizing: border-box;
+    box-shadow: 6px 12px 10px black;
+    border-radius: 10px;
+}
+.food-details{
+    padding: 4px;
+    
+    }
+    .food-title{
+         font-size: 20px;
+        text-align: center;
+        
+        }
+        .food-describe{
+            text-align: justify;
+            line-height: 1.2;
+            
+      }
+      .mulit-media{
+        margin: auto;
+        width: 70%;
+        border: 5px solid whitesmoke;
+        padding: 10px;
+        box-shadow: grey 2px 3px 5px;
+        display: flex;
+        margin-bottom: 10% ;
+        margin-top: 10%;
+        border-radius: 20px;
+       
+      }
+        
+       
+        .social{
+            width: 40%;
+            padding-left: 100px;
+           padding-bottom: 30px;
+        }
+      
+        .footer-deco{
+            background-color: black;
+            text-align: center;
+            padding: 15px 30px ;
+        }
+        .food-color{
+            color:#FF4500;
+        
+        }
+       .net-color{
+           color: gray;
+       }
+       .footer-deco h1{
+        font-size: 15px;
+       }
